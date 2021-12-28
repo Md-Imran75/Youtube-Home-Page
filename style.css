@@ -1,0 +1,141 @@
+.header{
+    background-color: hsl(0, 0%, 7%);
+}
+.threedot{
+    font-size: 20px;
+}
+.youtube{
+    color: red;
+    font-size: 25px;
+    margin-left: 15px;
+}
+.text-youtube{
+    color: white;
+    font-size: 20px;
+}
+.srch{
+    flex-direction: row;
+    justify-content: end;
+    width: 600px;
+    
+}
+.srchwidth{
+    width: 564px;
+    background-color: black;
+    border: 1px solid gray;
+    margin-left: 30px;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    flex-direction: ;
+    align-items: center;
+    width: 300px;
+    justify-content: space-evenly;
+}
+.icon .icon-margin{
+    margin-left: 30px;
+    font-size: 20px;
+    color:white;
+    
+}
+.srchform{
+    margin-left: 20px;
+}
+.voice{
+    height: 40px;
+    width: 40px;
+    background-color: black;
+    display: inline-block;
+    border-radius: 50%;
+    line-height: 180%;
+    color: white;
+    font-size: 20px;
+    
+}
+.voicediv{
+    height: 50px;
+    width: 90px;
+    text-align: center;
+    padding-top: 4px;
+}
+
+
+.left-nav{
+    background-color: hsl(0, 0%, 7%);
+
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    ;
+    position: absolute;
+    top: 3%;
+    left: 0%;
+    text-align: center;
+    padding-bottom: 350px;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 15px;
+    font-weight: 50;
+}
+.lefticon{
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+}
+body{
+    background-color: rgb(27, 27, 27);
+}
+.top-nav{
+    background-color: hsl(0, 0%, 7%);
+    top: 3%;
+    left: 7%;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
+.left-flex-icon{
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+}
+.maindiv{
+    margin-top: 150px;
+    color: white;
+    justify-content: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+}
+
+
+img{
+    max-width: 100%;
+    border-radius: 50%;
+    margin-top: 5px;
+    height: 40px;
+    width: 40px;
+}
+.maindiv2{
+margin-top: 30px;
+    color: white;
+    justify-content: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.maindiv3{
+    margin-top: 30px;
+    color: white;
+    justify-content: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
